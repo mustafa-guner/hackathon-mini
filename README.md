@@ -31,17 +31,6 @@ Welcome to our web development hackathon! This event is designed for high school
 - **Exam**: CSS styling quiz (QR code provided).
 - **Break**: 10-minute break after exam.
 
-### Session 3: Introduction to JavaScript & Interactive Elements
-- **Objective**: Learn the basics of JavaScript and add interactivity to the portfolio.
-- **Topics**:
-  - Introduction to JavaScript and its role in web development
-  - Adding JavaScript to the project
-  - Basic JS syntax: variables, functions, event listeners
-  - Simple interactions: toggle dark mode, smooth scrolling, alert pop-ups, and form validation
-- **Activity**: Add a dark mode toggle button, implement smooth scrolling for navigation, and create a simple contact form with JavaScript validation.
-- **Exam**: JavaScript basics and application quiz (QR code provided).
-- **Break**: 10-minute break after exam.
-
 ---
 
 ## Project Wrap-Up & Presentation
