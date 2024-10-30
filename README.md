@@ -42,17 +42,6 @@ Welcome to our web development hackathon! This event is designed for high school
 - **Exam**: JavaScript basics and application quiz (QR code provided).
 - **Break**: 10-minute break after exam.
 
-### Session 4: Introduction to Server-Side Concepts
-- **Objective**: Gain exposure to server-side basics and understand how the back-end complements the front-end.
-- **Topics**:
-  - What is a server and how it interact with a website
-  - Overview of simple server setup (e.g., Node.js with Express)
-  - Sending form data to a server (POST requests)
-  - Basic overview of databases and storing contact form submissions
-- **Activity**: Set up a basic server with Node.js, if possible, or demonstrate using Postman how data can be sent and received.
-- **Exam**: Server-side concepts quiz (QR code provided).
-- **Break**: 10-minute break after exam.
-
 ---
 
 ## Project Wrap-Up & Presentation
