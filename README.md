@@ -14,16 +14,15 @@ Welcome to our web development hackathon! This event is designed for high school
   - Basic HTML tags and structure (doctype, `<html>`, `<head>`, `<body>`, etc.)
   - Project setup and creating an HTML skeleton for the portfolio
   - Adding content with common tags: headings, paragraphs, links, images
-- **Activity**: Start building the portfolio layout with placeholders for content sections (About Me, Projects, Contact).
+- **Activity**: Start building the portfolio layout with placeholders for content sections (About Me, Hobbies).
 - **Exam**: Basic HTML quiz with 10 questions (QR code provided).
 - **Tools**:
   - Code editor (e.g., VS Code, CodePen)
-  - Open-source exam tool (e.g., **Google Forms** or **Quizizz**) with QR code generation for easy access
 
 ### Session 2: Introduction to CSS & Styling the Portfolio
 - **Objective**: Learn how to apply CSS for styling, including colors, fonts, and layouts.
 - **Topics**:
-  - What is CSS and how it works with HTML
+  - What is CSS and how it work with HTML
   - Adding CSS to HTML (inline, internal, external)
   - Basic styling properties: colors, fonts, margins, padding
   - Layout basics: display, positioning, and creating a simple grid or flex layout for portfolio sections
@@ -44,9 +43,9 @@ Welcome to our web development hackathon! This event is designed for high school
 - **Break**: 10-minute break after exam.
 
 ### Session 4: Introduction to Server-Side Concepts
-- **Objective**: Gain exposure to server-side basics and understand how back-end complements the front-end.
+- **Objective**: Gain exposure to server-side basics and understand how the back-end complements the front-end.
 - **Topics**:
-  - What is a server and how it interacts with a website
+  - What is a server and how it interact with a website
   - Overview of simple server setup (e.g., Node.js with Express)
   - Sending form data to a server (POST requests)
   - Basic overview of databases and storing contact form submissions
@@ -62,12 +61,12 @@ Welcome to our web development hackathon! This event is designed for high school
   - Final styling adjustments
   - Presentation tips
 - **Activity**: Each participant presents their portfolio to the group.
-- **Awards & Feedback**: Give awards for creativity, best design, best use of interactivity, and give feedback on their work.
+- **Awards & Feedback**: Give awards for creativity, best design, and best use of interactivity, and give feedback on their work.
 - **Next Steps**: Provide resources for continued learning (Codecademy, freeCodeCamp, etc.).
 
 ---
 
 ## Notes
 - **Breaks**: After each exam, allow students a 10-minute break before beginning the next session.
-- **Exam Requirement**: Students can only proceed to the next session after completing the exam, adding a gamified aspect to learning.
+- **Exam Requirement**: Students can only proceed to the next session after completing the session.
 - **Design Assets**: Provide a downloadable design file (PDF or Figma link) for reference, ensuring everyone has a consistent style guide.
