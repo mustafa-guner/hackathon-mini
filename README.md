@@ -1,7 +1,7 @@
 # WORKSHOP 1 - Portfolio Building 
 
 ### Overview
-Welcome to our web development hackathon! This event is designed for high school students with no prior experience in coding. Over several sessions, participants will create a personal portfolio website, learning essential concepts in HTML, CSS, JavaScript, and basic server-side development. By the end, everyone will have a professional-looking website and foundational coding knowledge.
+Welcome to our web development hackathon! This event is designed for high school students with no prior experience in coding. Over several sessions, participants will create a personal portfolio website, learning essential concepts in HTML, and CSS. By the end, everyone will have a professional-looking website and foundational coding knowledge.
 
 ---
 
